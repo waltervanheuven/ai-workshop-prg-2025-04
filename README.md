@@ -15,7 +15,7 @@ Some useful software to install on your laptop before attending the workshop.
 - [Witsy](https://witsyai.com)
 - [LM Studio](https://lmstudio.ai)
 
-You can also download Desktop clients of [ChatGPT](https://openai.com/chatgpt/download/), [Claude](https://claude.ai/download).
+You can also download Desktop clients of [ChatGPT](https://openai.com/chatgpt/download/) and [Claude](https://claude.ai/download).
 
 ### macOS
 
@@ -43,4 +43,11 @@ scoop install main/uv
 
 ## Topics covered
 
-Available soon...
+- Using local LLMs.
+- Accessing LLMs through app and APIs.
+- Tokenizers.
+- GPT2 and next-token prediction.
+- Using logits to get ratings from LLMs.
+- Use LLM to help with coding.
+- Use LLM to help with research.
+- Providing context to LLMs: Model Context Protocol (MCP).
