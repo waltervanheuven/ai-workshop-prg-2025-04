@@ -48,6 +48,6 @@ scoop install main/uv
 - Using local LLMs.
 - Accessing LLMs through Apps and APIs.
 - Using logits to get ratings from LLMs.
-- Use LLM to help with coding.
-- Use LLM to help with research.
+- Use LLMs to help with coding.
+- Use LLMs to help with research.
 - Providing context to LLMs: Model Context Protocol (MCP).
