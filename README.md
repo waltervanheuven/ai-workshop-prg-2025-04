@@ -43,10 +43,10 @@ scoop install main/uv
 
 ## Topics covered
 
-- Using local LLMs.
-- Accessing LLMs through app and APIs.
 - Tokenizers.
 - GPT2 and next-token prediction.
+- Using local LLMs.
+- Accessing LLMs through Apps and APIs.
 - Using logits to get ratings from LLMs.
 - Use LLM to help with coding.
 - Use LLM to help with research.
