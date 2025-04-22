@@ -2,8 +2,9 @@
 
 Workshop about using Large Language Models for research.
 
-Time: 1-4 pm.
-Location: Psychology A16
+**Time**: 1-4 pm.
+
+**Location**: Psychology A16
 
 Please bring your laptop.
 
