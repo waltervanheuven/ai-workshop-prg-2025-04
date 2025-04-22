@@ -52,3 +52,4 @@ scoop install main/uv
 - Use LLMs to help with research.
 - Providing context to LLMs: Model Context Protocol (MCP).
 - LLMs: privacy and data security.
+- The art of prompting.
