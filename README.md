@@ -36,7 +36,7 @@ Next install `Python` and `uv` in the [PowerShell](https://learn.microsoft.com/e
 
 ```powershell
 scoop bucket add versions
-scoop install python312
+scoop install versions/python312
 scoop bucket add main
 scoop install main/uv
 ```
