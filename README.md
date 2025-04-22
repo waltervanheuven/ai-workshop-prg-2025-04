@@ -1,6 +1,6 @@
 # AI in academic research
 
-Workshop about using Large Language Models for research.
+Workshop about using Large Language Models (LLMs) for research.
 
 **Time**: 1-4 pm.
 
