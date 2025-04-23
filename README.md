@@ -10,6 +10,10 @@ Please bring your laptop.
 
 ## Prepare your laptop for the workshop
 
+<details>
+
+<summary>Click to expand/collapse</summary>
+
 Some useful software to install on your laptop before attending the workshop.
 
 - [Witsy](https://witsyai.com)
@@ -40,6 +44,8 @@ scoop install versions/python312
 scoop bucket add main
 scoop install main/uv
 ```
+
+</details>
 
 ## Topics covered
 
