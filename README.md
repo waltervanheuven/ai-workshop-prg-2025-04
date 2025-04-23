@@ -12,9 +12,8 @@ Please bring your laptop.
 
 <details>
 
-<summary>
-Click to expand/collapse
-</summary>
+<summary>Click to expand/collapse</summary>
+
 
 Some useful software to install on your laptop before attending the workshop.
 
