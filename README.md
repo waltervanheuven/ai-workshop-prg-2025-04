@@ -6,7 +6,7 @@ Workshop about using Large Language Models (LLMs) for research.
 
 **Location**: Psychology A16
 
-Please bring your laptop.
+**Requirements**: Please bring your laptop.
 
 ## Topics covered
 
