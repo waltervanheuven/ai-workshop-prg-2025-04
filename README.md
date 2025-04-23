@@ -8,12 +8,24 @@ Workshop about using Large Language Models (LLMs) for research.
 
 Please bring your laptop.
 
+## Topics covered
+
+- Tokenizers.
+- GPT2 and next-token prediction.
+- Using local LLMs.
+- Accessing LLMs through Apps and APIs.
+- Using logits to get ratings from LLMs.
+- Use LLMs to help with coding.
+- Use LLMs to help with research.
+- Providing context to LLMs: Model Context Protocol (MCP).
+- LLMs: privacy and data security.
+- The art of prompting.
+
 ## Prepare your laptop for the workshop
 
 <details>
 
 <summary>Click to expand/collapse</summary>
-
 
 Some useful software to install on your laptop before attending the workshop.
 
@@ -47,16 +59,3 @@ scoop install main/uv
 ```
 
 </details>
-
-## Topics covered
-
-- Tokenizers.
-- GPT2 and next-token prediction.
-- Using local LLMs.
-- Accessing LLMs through Apps and APIs.
-- Using logits to get ratings from LLMs.
-- Use LLMs to help with coding.
-- Use LLMs to help with research.
-- Providing context to LLMs: Model Context Protocol (MCP).
-- LLMs: privacy and data security.
-- The art of prompting.
