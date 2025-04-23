@@ -2,7 +2,7 @@
 
 Workshop about using Large Language Models (LLMs) for research.
 
-**Time**: 1-4 pm.
+**Date and Time**: 24 April 2025, 1-4 pm.
 
 **Location**: Psychology A16
 
@@ -10,6 +10,8 @@ Workshop about using Large Language Models (LLMs) for research.
 
 ## Topics covered
 
+- LLMs: privacy and data security.
+- Current LLMs and their abilities and limitations.
 - Tokenizers.
 - GPT2 and next-token prediction.
 - Using local LLMs.
@@ -18,8 +20,17 @@ Workshop about using Large Language Models (LLMs) for research.
 - Use LLMs to help with coding.
 - Use LLMs to help with research.
 - Providing context to LLMs: Model Context Protocol (MCP).
-- LLMs: privacy and data security.
 - The art of prompting.
+
+## Activities
+
+- [1 Try LLMs](/activities/activity1.md)
+- [2 Tokenizer](/activities/activity2.md)
+- [3 Next-token prediction](/activities/activity3.md)
+- [4 Word familiarity ratings from LLM](/activities/activity4.md)
+- [5 Using MCP servers with LLM](/activities/activity5.md)
+
+Useful [Videos and readings](/background.md)
 
 ## Prepare your laptop for the workshop
 
@@ -38,7 +49,7 @@ You can also download Desktop clients of [ChatGPT](https://openai.com/chatgpt/do
 
 Install [brew](https://brew.sh).
 
-Next install `Python` and `uv` using the [Terminal](https://support.apple.com/en-gb/guide/terminal/welcome/mac)
+Next install `Python` and `uv` using the [Terminal](https://support.apple.com/en-gb/guide/terminal/welcome/mac).
 
 ```sh
 brew install python@3.12
@@ -51,7 +62,7 @@ Install [scoop](https://scoop.sh).
 
 Next install `Python` and `uv` using the [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/).
 
-```cmd
+```console
 scoop bucket add versions
 scoop install versions/python312
 scoop bucket add main
