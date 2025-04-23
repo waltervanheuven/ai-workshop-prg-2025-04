@@ -38,7 +38,7 @@ You can also download Desktop clients of [ChatGPT](https://openai.com/chatgpt/do
 
 Install [brew](https://brew.sh).
 
-Next install `Python` and `uv` in the [Terminal](https://support.apple.com/en-gb/guide/terminal/welcome/mac)
+Next install `Python` and `uv` using the [Terminal](https://support.apple.com/en-gb/guide/terminal/welcome/mac)
 
 ```sh
 brew install python@3.12
@@ -49,7 +49,7 @@ brew install uv
 
 Install [scoop](https://scoop.sh).
 
-Next install `Python` and `uv` in the [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.5).
+Next install `Python` and `uv` using the [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/).
 
 ```powershell
 scoop bucket add versions
