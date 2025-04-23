@@ -13,10 +13,10 @@ Workshop about using Large Language Models (LLMs) for research.
 - LLMs: privacy and data security.
 - Current LLMs and their abilities and limitations.
 - Tokenizers.
-- GPT2 and next-token prediction.
+- Next-token prediction.
 - Using local LLMs.
 - Accessing LLMs through Apps and APIs.
-- Using logits to get ratings from LLMs.
+- Word familiarity ratings from LLMs.
 - Use LLMs to help with coding.
 - Use LLMs to help with research.
 - Providing context to LLMs: Model Context Protocol (MCP).
