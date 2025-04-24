@@ -2,6 +2,8 @@
 
 Install MCP servers for Witsy or Claude Desktop app. Note the at the moment MCP servers with best with Claude Desktop.
 
+To use Google Gemini in Witsy, you can get at the moment a free API key in [Google AI Studio](https://aistudio.google.com/app/apikey).
+
 ## Installing Node
 
 ### macOS
