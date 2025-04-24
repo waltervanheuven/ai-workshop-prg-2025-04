@@ -3,10 +3,7 @@
 Brysbaert et al. (2025) obtained word familiarity ratings from GPT4 using this prompt:
 
 ```txt
-Familiarity is a measure of how familiar something is. A word is very FAMILIAR if you see/hear it often and it is easily recognisable. 
-In contrast, a word is very UNFAMILIAR if you rarely see/hear it and it is relatively unrecognisable. Please indicate how familiar you 
-think each word is on a scale from 1 (VERY UNFAMILIAR) to 7 (VERY FAMILIAR), with the midpoint representing moderate familiarity. 
-The word is: {word}. Only answer a number from 1 to 7. Please limit your answer to numbers.
+Familiarity is a measure of how familiar something is. A word is very FAMILIAR if you see/hear it often and it is easily recognizable. In contrast, a word is very UNFAMILIAR if you rarely see/hear it and it is relatively unrecognizable. Please indicate how familiar you think each word is on a scale from 1 (VERY UNFAMILIAR) to 7 (VERY FAMILIAR), with the midpoint representing moderate familiarity. The word is: [insert word here]. Only answer a number from 1 to 7. Please limit your answer to numbers.
 ```
 
 Try this prompt with different LLMs.
