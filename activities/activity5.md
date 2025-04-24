@@ -1,6 +1,6 @@
 # Activity 5: Using MCP servers with LLM
 
-Install MCP servers for Witsy or Claude Desktop app.
+Install MCP servers for Witsy or Claude Desktop app. Note the at the moment MCP servers with best with Claude Desktop.
 
 ## Installing Node
 
