@@ -53,7 +53,7 @@ Install [brew](https://brew.sh). You might need to install Xcode Command Line To
 xcode-select --install
 ```
 
-Next install `Python` and `uv` using the [Terminal](https://support.apple.com/en-gb/guide/terminal/welcome/mac).
+Next, install `Python` and `uv` using the [Terminal](https://support.apple.com/en-gb/guide/terminal/welcome/mac).
 
 ```sh
 brew install python@3.12
@@ -64,7 +64,7 @@ brew install uv
 
 Install [scoop](https://scoop.sh).
 
-Next install `Python` and `uv` using the [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/).
+Next, install `Python` and `uv` using the [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/).
 
 ```console
 scoop bucket add versions
