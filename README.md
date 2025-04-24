@@ -47,7 +47,7 @@ You can also download Desktop clients of [ChatGPT](https://openai.com/chatgpt/do
 
 ### macOS
 
-Install [brew](https://brew.sh). You might need to install Xcode Command Line Tools first. Enter the next line in the [Terminal](https://support.apple.com/en-gb/guide/terminal/welcome/mac):
+Install [brew](https://brew.sh). You might need to install Xcode Command Line Tools first. Enter the next line in the [Terminal](https://support.apple.com/en-gb/guide/terminal/welcome/mac) and then proceed with the installation instructions of `brew`:
 
 ```sh
 xcode-select --install
