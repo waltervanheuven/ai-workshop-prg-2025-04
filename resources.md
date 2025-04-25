@@ -1,6 +1,6 @@
-# Useful background info about LLMs
+# Useful resources about LLMs
 
-Online videos, guides, and papers.
+Online videos, guides, resources, and papers.
 
 ## YouTube videos from Andrej Karpathy
 
@@ -13,11 +13,16 @@ Online videos, guides, and papers.
 - [OpenAI developer platform](https://platform.openai.com/docs/overview)
 - [Google's generative models guide](https://ai.google.dev/gemini-api/docs/models/generative-models)
 
-## Prompting guides
+## Prompting examples and guides
 
+- [Craft Perfect AI Prompts](https://shumerprompt.com)
 - [Anthopic's Prompt engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 - [Antropic's Prompt engineering interactive tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 - [Google's introduction to prompt design](https://ai.google.dev/gemini-api/docs/prompting-intro)
+
+## Context for LLMs
+
+- [Up-to-date documentation for LLMs and AI code editors](https://context7.com)
 
 ## Tokenizers
 

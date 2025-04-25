@@ -30,7 +30,7 @@ Workshop about using Large Language Models (LLMs) for research.
 - [4 Word familiarity ratings from LLM](/activities/activity4.md)
 - [5 Using MCP servers with LLM](/activities/activity5.md)
 
-Useful [Videos and readings](/background.md)
+Useful [resources (videos, websites, readings](/resources.md)
 
 ## Prepare your laptop for the workshop
 
